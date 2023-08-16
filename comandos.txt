@@ -1,0 +1,20 @@
+activar el venv en mac: source bin/activate
+activar el venv en windows: .\Scripts\activate
+desactivar el venv: deactivate
+pip freeze
+python manage.py runserver
+python manage.py makemigrations
+python manage.py migrate
+python -m "django>=3.2,<3.3"
+python3.6 -m venv .
+which python
+python -V
+python --version
+python -m django startproject xxxxx .
+pip install -r requirements.txt 
+rm -rf xxxxx
+ls
+
+
+
+
